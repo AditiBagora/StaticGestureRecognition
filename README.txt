@@ -1,0 +1,2 @@
+The project takes an image that contains one hand static gesture and by using Image Processing(Python opencv) and an alogirthm calculates code bit i.e. state of each finger if it is open(1) closed(0) or half open(0.5) and maps it a corresponding word that is defined in a small static dictionary in the program. it uses the text to speech module to convert the word into speech.
+Sample images are placed in Images folder.
